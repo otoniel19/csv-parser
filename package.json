@@ -1,0 +1,14 @@
+{
+  "name": "csv-parser",
+  "version": "1.0.0",
+  "description": "csv-parser",
+  "main": "index.js",
+  "author": "otoniel19",
+  "license": "MIT",
+  "scripts": {
+    "build":"yarn install"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.8"
+  }
+}
